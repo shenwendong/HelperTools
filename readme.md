@@ -1,1 +1,1 @@
-# Convert a picture to base64 string, writen in WPF.
+# Convert a picture to base64 string, written in WPF.
