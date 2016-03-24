@@ -1,0 +1,16 @@
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\bin\Debug\EscapeText.Wpf.exe.config
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\bin\Debug\EscapeText.Wpf.exe
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\bin\Debug\EscapeText.Wpf.pdb
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\bin\Debug\Newtonsoft.Json.dll
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\bin\Debug\Newtonsoft.Json.xml
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.csprojResolveAssemblyReference.cache
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\MainWindow.g.cs
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\App.g.cs
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf_MarkupCompile.cache
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf_MarkupCompile.lref
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\MainWindow.baml
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.g.resources
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.Properties.Resources.resources
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.csproj.GenerateResource.Cache
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.exe
+D:\projects\Base64Parser.Wpf\EscapeText.Wpf\obj\Debug\EscapeText.Wpf.pdb
